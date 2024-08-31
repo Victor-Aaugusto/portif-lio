@@ -100,6 +100,7 @@ li,a{
 }
 .trabalhos_div{
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     margin: 5em;
 }
